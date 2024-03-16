@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710198079 source:c:\users\elmouelhi\desktop\pile\pile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1710198321 c:\users\elmouelhi\desktop\pile\pile\pile.h
+
